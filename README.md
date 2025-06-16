@@ -40,14 +40,7 @@ Meu foco com esse repositório foi:
 
 ## 📂 Estrutura do Projeto
 
-/
-├── index.html // Estrutura principal da página
-├── style.css // Customização de estilos
-└── script.js // Configuração e inicialização do Swiper
-
-yaml
-Copiar
-Editar
+![image](https://github.com/user-attachments/assets/1a507d5a-f730-4df6-90b5-10ce834d0f13)
 
 ---
 
